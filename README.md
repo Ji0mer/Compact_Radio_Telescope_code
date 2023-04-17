@@ -3,7 +3,7 @@ This project is about the testing, rotator control, and data processing of the c
 
 This project mainly includes three parts: 
 
-1. Rotator control and SDR data recording. 
+1. Rotator control and SDR data recording. PyMd01 is a GUI program. And observation is used for out campus observation, no gui.
 
 2. Data processing. 
 
