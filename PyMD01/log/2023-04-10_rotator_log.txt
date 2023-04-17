@@ -1,0 +1,12 @@
+####################
+
+####################
+Start Rotator Controller
+Location information:
+Location:Boston
+Latitude(deg):42.36
+Longitude(deg):-71.06
+Altitude(m):43.0
+Timezone(h):-4.0
+Rotator Port:/dev/ttyUSB0
+##########
